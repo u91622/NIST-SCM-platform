@@ -1,0 +1,4 @@
+# Append these to requirements.txt
+scikit-learn==1.4.2
+joblib==1.4.2
+numpy==1.26.4
